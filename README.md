@@ -1,1 +1,1 @@
-# VPBank-CRM-Project
+# VPBank Financial Service & Customer Analysis
