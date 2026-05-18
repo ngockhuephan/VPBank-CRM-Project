@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
 
-Analyze customer behavior, financial service usage, and customer deposit distribution to support business growth strategies and KPI planning.
+Analyze customer behavior, financial service usage, and customer deposit distribution to support business growth strategies.
 
 <p align="center">
   <a href="Report_Tình hình sử dụng dịch vụ và khách hàng VPBank_Phan Ngọc Khuê.pdf">
