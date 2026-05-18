@@ -1,5 +1,26 @@
 # VPBank Financial Service & Customer Analysis
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
+
+Analyze customer behavior, financial service usage, and customer deposit distribution to support business growth strategies and KPI planning.
+
+<p align="center">
+  <a href="YOUR_POWERBI_REPORT_LINK">
+    <img src="https://img.shields.io/badge/VIEW_FULL_REPORT-CLICK_HERE-F2C811?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# Table of Contents
+
+- [Project Objectives](#project-objectives)
+- [Dataset](#dataset)
+- [Key Insights](#key-insights)
+- [Business Recommendations](#business-recommendations)
+- [Dashboard Preview](#dashboard-preview)
+
 ---
 
 # Project Objectives
